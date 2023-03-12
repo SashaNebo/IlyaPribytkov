@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🌱 I’m currently learning **JavaScript, React JS**
-S
+
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **ilyapribytkov2003we6dev@gmail.com**
